@@ -1,8 +1,8 @@
 fn main() {
-    println!("Hello, Grant!");
+    alt();
 }
 
 
 fn alt() {
-    println("Weird message, huh?")
+    println!("Weird message, huh?")
 }
